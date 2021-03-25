@@ -1,0 +1,28 @@
+#box_API {
+	display: flex;
+	flex-direction: column;
+	margin-left: 200px;
+}
+div {
+	padding: 5px;
+	margin-left: 10px;
+}
+p {
+	font-size: 1rem;
+	padding: 0px;
+	margin: 0px;
+}
+li {
+	color: black;
+	margin: 3px;
+	border: 1px solid black;
+	width: max-content;
+	background-color: whitesmoke;
+}
+ol {
+	text-align: center;
+}
+img {
+	height: 30px;
+	background-position: center;
+}
